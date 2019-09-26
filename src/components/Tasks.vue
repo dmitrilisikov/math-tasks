@@ -10,7 +10,6 @@
 import taskGenerator from './../services/task-generator';
 
 const tasks = taskGenerator.generateTasks(20, 15);
-console.log(JSON.stringify(tasks));
 
 export default {
   name: 'Tasks',
