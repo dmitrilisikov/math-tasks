@@ -1,5 +1,8 @@
 # math-tasks
 
+## Purpose
+A minimalistic math task generator for first grade school students. The tasks are meant to be printed out.
+
 ## Project setup
 ```
 yarn install
